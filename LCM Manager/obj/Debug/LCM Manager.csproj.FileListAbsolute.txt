@@ -1,0 +1,10 @@
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LCM Manager.exe.config
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LCM Manager.exe
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LCM Manager.pdb
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.AssemblyReference.cache
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM_Manager.Manager.resources
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM_Manager.Properties.Resources.resources
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.GenerateResource.cache
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.CoreCompileInputs.cache
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.exe
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.pdb
