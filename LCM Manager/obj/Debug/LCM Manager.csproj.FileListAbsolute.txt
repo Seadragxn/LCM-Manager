@@ -22,3 +22,4 @@ C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.CopyComplete
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.exe
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.pdb
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.AssemblyReference.cache
