@@ -1,10 +1,24 @@
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\win32\x86\git2-a2bde63.dll
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\win32\x64\git2-a2bde63.dll
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\win32\arm64\git2-a2bde63.dll
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\linux-arm64\libgit2-a2bde63.so
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\linux-arm\libgit2-a2bde63.so
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\linux-musl-arm64\libgit2-a2bde63.so
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\linux-musl-arm\libgit2-a2bde63.so
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\linux-musl-x64\libgit2-a2bde63.so
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\linux-x64\libgit2-a2bde63.so
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\osx-arm64\libgit2-a2bde63.dylib
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\lib\osx-x64\libgit2-a2bde63.dylib
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LibGit2Sharp.dll.config
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LCM Manager.exe.config
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LCM Manager.exe
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LCM Manager.pdb
-C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.AssemblyReference.cache
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LibGit2Sharp.dll
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\bin\Debug\LibGit2Sharp.xml
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM_Manager.Manager.resources
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM_Manager.Properties.Resources.resources
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.GenerateResource.cache
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.CoreCompileInputs.cache
+C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.csproj.CopyComplete
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.exe
 C:\Users\owphi\source\repos\LCM Manager\LCM Manager\obj\Debug\LCM Manager.pdb
